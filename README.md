@@ -6,7 +6,7 @@ We provide an example code of "Gesture-keyboard". You can change it according to
 
 ## Demo
 First install Anaconda3, python 3.7  
-pip install mediapipe numpy cv2 math ~~~ 
+pip install mediapipe numpy cv2 math ~~~   
 python hand.y (run on cpu)  
 
 ## Introduction
