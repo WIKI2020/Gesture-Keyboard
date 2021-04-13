@@ -1,6 +1,6 @@
 # Gesture-Keyboard
 
-We provide an example code of "Gesture-keyboard". You can change it according to the actual needs. No extra cost, no need to wear any device.The code is very simple,let's play!  
+We provide an example code of "Gesture-keyboard". You can change it according to the actual needs. No extra cost, no need to wear any device.The code is very simple,let's play! Please add a github star!  
 ![image](https://github.com/WIKI2020/Gesture-Keyboard/blob/main/example1.gif)  
 
 ## Demo
