@@ -1,10 +1,12 @@
 # Gesture-Keyboard
 
-We provide an example code of posture keyboard. You can change it according to the actual needs. The code is very simple,let's play!
+We provide an example code of "Gesture-keyboard". You can change it according to the actual needs. The code is very simple,let's play!
+
+![image](https://github.com/WIKI2020/Gesture-Keyboard/blob/main/example1.gif) 
 
 ## Demo
 First install Anaconda3, python 3.7  
-pip install mediapipe numpy cv2 math  
+pip install mediapipe numpy cv2 math ~~~ 
 python hand.y (run on cpu)  
 
 ## Introduction
